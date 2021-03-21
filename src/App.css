@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.inputForm{
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.dataCard{
+  
+  margin-top: 50px;
+}
+
